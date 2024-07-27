@@ -1,15 +1,6 @@
 # LLMS
 ## Introduction
-This list is tailored for users with **Apple Silicon** devices interested in experimenting with **Large Language Models (LLMs).** It includes summaries of key repositories and resources, focusing on those optimized for Apple Silicon hardware. The guide covers a variety of topics, including Retrieval-Augmented Generation (RAG), training and fine-tuning LLMs, vision-language models, datasets, and user interfaces. Each section provides links to repositories and tools, helping users explore and implement LLMs effectively on their Apple Silicon devices.
-
-
-**Infinity**
-- Repository: [Infinity](https://github.com/infiniflow/infinity)
-- Summary: Infinity is an AI-native database optimized for LLM applications, providing fast hybrid search capabilities across dense vectors, sparse vectors, tensors, and full-text. It supports high-performance search, recommendation, question-answering, conversational AI, and content generation, with an intuitive Python API for ease of use.
-
-**MLC-LLM**
-- Repository: [MLC-LLM](https://github.com/mlc-ai/mlc-llm)
-- Summary: MLC-LLM is a repository focused on enabling efficient execution of large language models on a variety of hardware, including GPUs and AI accelerators. It aims to optimize performance and scalability for deployment in real-world applications.
+This guide is tailored for users with **Apple Silicon** devices interested in experimenting with **Large Language Models (LLMs).** It includes summaries of key repositories and resources, focusing on those optimized for Apple Silicon hardware. The guide covers a variety of topics, including Retrieval-Augmented Generation (RAG), training and fine-tuning LLMs, vision-language models (VLM), datasets, and user interfaces (UI). Each section provides links to repositories and tools, helping users explore and implement LLMs effectively on their Apple Silicon devices.
 
 ### Retrieval-Augmented Generation (RAG) Repositories:
 
@@ -138,4 +129,8 @@ This list is tailored for users with **Apple Silicon** devices interested in exp
 - Summary: A dataset repository on Hugging Face providing a collection of datasets for training and evaluating machine learning models, including detailed descriptions and usage guidelines.
 
 ### GUI:
+
+**LibreChat**
+- Repository: [LibreChat](https://github.com/danny-avila/LibreChat)
+- Summary: LibreChat is an open-source project for building and managing chat interfaces for language models, providing customizable features and integration options for various platforms.
 
