@@ -141,3 +141,6 @@ The model uses ~7.0GB RAM.
 - Repository: [LibreChat](https://github.com/danny-avila/LibreChat)
 - Summary: LibreChat is an open-source project for building and managing chat interfaces for language models, providing customizable features and integration options for various platforms.
 
+### Unsorted
+-- https://github.com/linyiLYi/bilibot/tree/main
+-- https://github.com/harperreed/photo-similarity-search
