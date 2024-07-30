@@ -130,6 +130,13 @@ This guide is tailored for users with **Apple Silicon** devices interested in ex
 
 ### GUI:
 
+## Docker etc
+-- brew install llama.cpp
+-- llama-cli --hf-repo reach-vb/Meta-Llama-3.1-8B-Instruct-Q6_K-GGUF --hf-file meta-llama-3.1-8b-instruct-q6_k.gguf -p "Sup?" --ctx-size 8192
+
+The model uses ~7.0GB RAM. 
+
+
 **LibreChat**
 - Repository: [LibreChat](https://github.com/danny-avila/LibreChat)
 - Summary: LibreChat is an open-source project for building and managing chat interfaces for language models, providing customizable features and integration options for various platforms.
