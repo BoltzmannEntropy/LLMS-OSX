@@ -1,6 +1,7 @@
 # LLMS
 ## Introduction
 This guide is tailored for users with **Apple Silicon** devices interested in experimenting with **Large Language Models (LLMs).** It includes summaries of key repositories and resources, focusing on those optimized for Apple Silicon hardware. The guide covers a variety of topics, including Retrieval-Augmented Generation (RAG), training and fine-tuning LLMs, vision-language models (VLM), datasets, and user interfaces (UI). Each section provides links to repositories and tools, helping users explore and implement LLMs effectively on their Apple Silicon devices.
+<img src="./apple.jpg" alt="apple" width="60%">
 
 ### Retrieval-Augmented Generation (RAG) Repositories:
 
