@@ -146,3 +146,6 @@ The model uses ~7.0GB RAM.
 ### Unsorted
 - https://github.com/linyiLYi/bilibot/tree/main
 - https://github.com/harperreed/photo-similarity-search
+- https://github.com/hiyouga/LLaMA-Factory
+- https://github.com/instructlab/instructlab
+- https://github.com/modelscope/swift
