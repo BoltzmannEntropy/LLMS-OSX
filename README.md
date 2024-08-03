@@ -149,3 +149,4 @@ The model uses ~7.0GB RAM.
 - https://github.com/hiyouga/LLaMA-Factory
 - https://github.com/instructlab/instructlab
 - https://github.com/modelscope/swift
+-https://github.com/lyogavin/airllm/blob/main/air_llm/examples/run_on_macos.ipynb 
