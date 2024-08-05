@@ -142,6 +142,10 @@ This guide is tailored for users with **Apple Silicon** devices interested in ex
 
 The model uses ~7.0GB RAM. 
 
+## Audio 
+**MLX Powered Video Transcription** 
+- Repository: https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator/
+- Summary: This Streamlit application allows users to upload video files and generate accurate transcripts using Apple's MLX framework
 
 ### Unsorted
 - https://github.com/linyiLYi/bilibot/tree/main
